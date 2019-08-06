@@ -2,7 +2,7 @@
 
 Projeto desenvolvido através da mentoria do https://github.com/diego3g, na semana da OmniStack 8.0
 ---
-## Requirements
+## Requisitos
 
 Para rodar você precisa ter instalado em sua máquina: 
 
@@ -13,7 +13,7 @@ Para rodar você precisa ter instalado em sua máquina:
 ### Node
 - #### Instalando Node no windows
 
-  Apenas va para o [site oficial](https://nodejs.org/) e baixe o instalado.
+  Apenas va para o [site oficial](https://nodejs.org/) e baixe o instalador.
 
 - #### Instalando Node no Ubuntu
 
