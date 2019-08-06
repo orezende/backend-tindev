@@ -26,12 +26,12 @@ Para rodar você precisa ter instalado em sua máquina:
 
       $ npm install -g yarn
       
-## Install
+## Instalação
 
     $ git clone https://github.com/JoaoRabelo98/backend-tindev.git
     $ cd backend-tindev
     $ yarn install
 
-## Running the project
+## Rodando o projeto
 
     $ yarn dev
