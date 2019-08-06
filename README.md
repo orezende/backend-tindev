@@ -1,6 +1,6 @@
 # Tindev - BackEnd
 
-Projeto desenvolvido através da mentoria do https://github.com/diego3g, na semana da OmniStack 8.0
+Projeto desenvolvido através da mentoria do [Diego - RocketSeat](https://github.com/diego3g), na semana da OmniStack 8.0
 ---
 ## Requisitos
 
